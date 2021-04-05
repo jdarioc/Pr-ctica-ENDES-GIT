@@ -10,3 +10,7 @@ Cuarto he realizado el camino del codigo
 Quinto realizado las pruebas de caja negra
 
 Sexto realizado las pruebas junit y subida la captura correspondiente.
+
+Septimo borrado de caja negra (Error de archivo)
+
+Octavo subida de pruebas caja negra y blanca correspondientes.
